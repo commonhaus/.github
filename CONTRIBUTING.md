@@ -4,6 +4,7 @@ status: draft
 # CONTRIBUTING to the Commonhaus Foundation
 
 Hey there, contributor! First off, thank you for considering a contribution to the Commonhaus Foundation (CF).
+
 We appreciate your effort and your desire to make this a better resource for everyone.
 While there might not be traditional code here, we treat our documents with the same rigor and attention to detail.
 
@@ -11,26 +12,26 @@ While there might not be traditional code here, we treat our documents with the 
 
 ### 1. Consider Opening an Issue (Optional for Minor Changes)
 
-While opening an issue is generally recommended for tracking and discussing proposed changes, it's not always required, especially for trivial modifications. 
+While opening an issue is generally recommended for tracking and discussing proposed changes, it's not always required, especially for trivial modifications.
 
-- For smaller changes or straightforward fixes, you can directly initiate a pull request (PR) where discussions can also take place. 
+- For smaller changes or straightforward fixes, you can directly initiate a pull request (PR) where discussions can also take place.
 - For more significant updates or enhancements, opening an issue helps in organizing and deliberating the changes with the community and relevant teams.
 
 ### 2. Fork the Repository
 
-Fork the repository to your own GitHub account. 
+Fork the repository to your own GitHub account.
 This will allow you to work on your proposed changes independently before submitting them for review.
 
 ## Making Changes
 
 ### 1. Be Clear and Concise
 
-Our documents aim to be direct and developer-friendly. 
+Our documents aim to be direct and developer-friendly.
 We value clarity, so please ensure your changes or additions reflect that.
 
 ### 2. Adhere to the Format
 
-Please maintain the structure and format of the documents you're amending. 
+Please maintain the structure and format of the documents you're amending.
 Consistency makes it easier for everyone.
 
 ### 3. Reference Issues
@@ -62,6 +63,6 @@ Once all feedback has been addressed, and the PR is approved, it will be merged 
 Every contribution, be it small or large, helps us maintain and improve this repository.
 Your willingness to help is genuinely appreciated.
 
-For any questions or further information, don't hesitate to reach out to us. 
+For any questions or further information, don't hesitate to reach out to us.
 
 Happy contributing!
