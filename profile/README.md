@@ -1,5 +1,3 @@
-![Commonhaus Foundation Logo](https://www.commonhaus.org/brand/png/CF_logo_horizontal_default_1280px.png)
-
 # Welcome
 
 The Commonhaus Foundation is dedicated to nurturing open-source projects and their communities. Drawing inspiration from the legacy of The Codehaus, we offer a balanced approach to support and governance, designed for the unique needs of established open-source projects.
