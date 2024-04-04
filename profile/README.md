@@ -32,4 +32,4 @@ Stay updated with our latest news and events:
 
 Let's build a home for open-source projects to grow, innovate, and succeed together.
 
-[![Support us on Open Collective](LINK_TO_BADGE)](https://opencollective.com/commonhaus-foundation)
+[![Support us on Open Collective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/commonhaus-foundation)
