@@ -18,17 +18,18 @@ Whether you're a developer, a contributor, or an enthusiast, there are many ways
 
 ## Support Us
 
-Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](#) (pending) or [Open Collective](https://opencollective.com/commonhaus-foundation). Your contributions make a significant impact.
+Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) (pending) or [Open Collective](https://opencollective.com/commonhaus-foundation). Your contributions make a significant impact.
 
 ### Join Us on GitHub
 
 Discover our projects and how you can contribute on [GitHub](https://github.com/commonhaus/foundation).
 
-### Follow Us
+## Engage, learn, and share
 
-Stay updated with our latest news and events:
+- [**GitHub Discussions**](https://github.com/commonhaus/foundation/discussions): Share ideas, ask questions, and help shape the evolution of our collective effort.
 
-- [Commonhaus Website](https://www.commonhaus.org/)
+- **Subscribe** to our [mailing list](https://groups.google.com/a/commonhaus.org/g/announce) or use the [RSS Feed](https://www.commonhaus.org/feed/index.rss) to have foundation notices and updates delivered straight to your inbox or reader.
+
+- **Follow** [@commonhaus_fdn on Mastodon](https://fosstodon.org/@commonhaus_fdn), [@commonhaus-fdn on Blue Sky](https://bsky.app/profile/commonhaus-fdn.bsky.social), or [@commonhaus_fdn on X](https://twitter.com/commonhaus_fdn) for updates and announcements. We're also on [Linked.in](https://www.linkedin.com/company/commonhaus-foundation/).
 
 Let's build a home for open-source projects to grow, innovate, and succeed together.
-
