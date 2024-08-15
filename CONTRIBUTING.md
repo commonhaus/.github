@@ -1,6 +1,3 @@
----
-status: draft
----
 # CONTRIBUTING to the Commonhaus Foundation
 
 Hey there, contributor! First off, thank you for considering a contribution to the Commonhaus Foundation (CF).
