@@ -5,6 +5,15 @@ Hey there, contributor! First off, thank you for considering a contribution to t
 We appreciate your effort and your desire to make this a better resource for everyone.
 While there might not be traditional code here, we treat our documents with the same rigor and attention to detail.
 
+## Legal
+
+All original contributions to Quarkus are licensed under the
+[ASL - Apache License](https://www.apache.org/licenses/LICENSE-2.0), version 2.0 or later,
+or, if another license is specified as governing the file or directory being modified, such other license.
+
+All contributions are subject to the [Developer Certificate of Origin (DCO)](https://developercertificate.org/).
+The DCO text is also included verbatim in the [dco.txt](dco.txt) file in the root directory of the repository.
+
 ## Getting Started
 
 ### 1. Consider Opening an Issue (Optional for Minor Changes)
