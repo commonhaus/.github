@@ -10,7 +10,7 @@ To empower developers, contributors, and users in creating, maintaining, and evo
 
 - **Stable, Long-Term Home**: We provide a neutral space that supports the growth and evolution of projects, ensuring smooth transitions and fostering long-term resilience.
 - **Minimum Viable Governance**: Adhering to a community-first model, we offer foundational support while respecting project autonomy.
-- **Streamlined Access to Funding**: Through connections with platforms like GitHub Sponsors and OpenCollective, we simplify securing funds for sustainability and growth.
+- **Streamlined Access to Funding**: Through connections with platforms like GitHub Sponsors and Open Collective, we simplify securing funds for sustainability and growth.
 
 ## Get Involved
 
@@ -18,7 +18,7 @@ Whether you're a developer, a contributor, or an enthusiast, there are many ways
 
 ## Support Us
 
-Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) (pending) or [Open Collective](https://opencollective.com/commonhaus-foundation). Your contributions make a significant impact.
+Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) or [Open Collective](https://opencollective.com/commonhaus-foundation).
 
 ### Join Us on GitHub
 
