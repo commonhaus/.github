@@ -32,4 +32,6 @@ Discover our projects and how you can contribute on [GitHub](https://github.com/
 
 - **Follow** [@commonhaus_fdn on Mastodon](https://fosstodon.org/@commonhaus_fdn), [@commonhaus-fdn on Blue Sky](https://bsky.app/profile/commonhaus-fdn.bsky.social), or [@commonhaus_fdn on X](https://twitter.com/commonhaus_fdn) for updates and announcements. We're also on [Linked.in](https://www.linkedin.com/company/commonhaus-foundation/).
 
+- **Join us on [Discord](https://discord.gg/HpnE8pwQnm)** (login first)
+
 Let's build a home for open-source projects to grow, innovate, and succeed together.
