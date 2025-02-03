@@ -16,12 +16,12 @@ To empower developers, contributors, and users in creating, maintaining, and evo
 
 Whether you're a developer, a contributor, or an enthusiast, there are many ways to contribute to and benefit from the Commonhaus Foundation. Explore our projects, join the conversation, and help shape the future of open-source.
 
-## Support Us
+## Sponsor our work
 
-Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) or [Open Collective](https://opencollective.com/commonhaus-foundation).
+As a non-profit, we rely on community support to keep going. Every contribution helps. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) or [Open Collective](https://opencollective.com/commonhaus-foundation).
 
 <a href="https://opencollective.com/commonhaus-foundation/donate" target="_blank">
-  <img alt="Donate to our collective" src="https://opencollective.com/commonhaus-foundation/donate/button@2x.png?color=blue" width=300 />
+  <img alt="Donate to our collective" src="https://opencollective.com/commonhaus-foundation/donate/button@2x.png?color=blue" width=200 />
 </a>
 
 ## Engage, learn, and share
