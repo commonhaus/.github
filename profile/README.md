@@ -20,9 +20,9 @@ Whether you're a developer, a contributor, or an enthusiast, there are many ways
 
 Your support helps us continue our mission. Consider sponsoring us through [GitHub Sponsors](https://github.com/sponsors/commonhaus) or [Open Collective](https://opencollective.com/commonhaus-foundation).
 
-### Join Us on GitHub
-
-Discover our projects and how you can contribute on [GitHub](https://github.com/commonhaus/foundation).
+<a href="https://opencollective.com/commonhaus-foundation/donate" target="_blank">
+  <img alt="Donate to our collective" src="https://opencollective.com/commonhaus-foundation/donate/button@2x.png?color=blue" width=300 />
+</a>
 
 ## Engage, learn, and share
 
@@ -35,3 +35,5 @@ Discover our projects and how you can contribute on [GitHub](https://github.com/
 - **Join us on [Discord](https://www.commonhaus.org/community/discord.html)**
 
 Let's build a home for open-source projects to grow, innovate, and succeed together.
+
+🙏 🫶 🚀
